@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/musicplayer-2.0.1.jar lib/slf4j-api-1.7.31.jar lib/logba
+ ck-classic-1.2.3.jar lib/logback-core-1.2.3.jar lib/java-stream-player-
+ 10.0.0.jar lib/mp3spi-1.9.5.4.jar lib/jlayer-1.0.1.4.jar lib/junit-3.8.
+ 2.jar lib/jflac-codec-1.5.2.jar lib/vorbis-support-1.1.0.jar lib/triton
+ us-all-0.3.7.2.jar lib/jorbis-0.0.17-2.jar lib/jaudiotagger-2.2.7.jar l
+ ib/commons-io-2.6.jar
+Implementation-Title: FinalJukebox
+Implementation-Version: 1.0.0
+Main-Class: MainAsync
+Created-By: Maven Integration for Eclipse
+
